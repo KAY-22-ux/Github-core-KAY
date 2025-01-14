@@ -1,4 +1,4 @@
-# Assignment: Core Functions of GitHub
+# Assignment: Core Functions of GitHub.
 
 Welcome to the GitHub Core Functions Assignment! This exercise is designed to help you familiarize yourself with the core features of GitHub, including repositories, commits, branches, pull requests, and collaboration.
 
